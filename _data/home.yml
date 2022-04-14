@@ -2,6 +2,9 @@ navbar_entries:
   - title: home
     url: index
 project_entries:
-  - title: Victims of all ages have collectively lost around $4.2 billion in 2020 from phishing scams
-  - title: An average of a million incidents identity theft occur every year
-  - title: $1 billion was lost from online scams in 2015 in the US, which has increased to $3.3 billion by 2020
+  - title: $4.2 billion
+    desc:  The amount of money collectively lost thorugh phishing scams in 2020
+  - title: 1 million
+    desc:  The average amount of identity theft incidents that occur every year
+  - title: 156%
+    desc: The increase in the amount of people who have fallen victim to cyber-fraud over the last 3 years
