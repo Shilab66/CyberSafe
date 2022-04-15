@@ -11,3 +11,4 @@ The internet is a quickly growing platform that connects computers all over the 
 
 ![Image](https://i.imgur.com/BLlxuYU_d.webp?maxwidth=760&fidelity=grand)
 
+## The statistics shows that this is a quickly growing problem
