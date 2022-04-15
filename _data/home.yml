@@ -1,6 +1,8 @@
 navbar_entries:
   - title: home
     url: index
+  - title: about
+    url: about
 project_entries:
   - title: $4.2 billion
     desc:  The amount of money collectively lost thorugh phishing scams in 2020
