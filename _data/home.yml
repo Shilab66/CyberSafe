@@ -5,11 +5,11 @@ navbar_entries:
     url: about
 project_entries:
   - title: $4.2 billion
-    url: false
+    url: index
     desc:  The amount of money collectively lost thorugh phishing scams in 2020
   - title: 1 million
-    url: false
+    url: index
     desc:  The average amount of identity theft incidents that occur every year
   - title: 156%
-    url: false
+    url: index
     desc: The increase in the amount of people who have fallen victim to cyber-fraud over the last 3 years
