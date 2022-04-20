@@ -1,4 +1,4 @@
-[home](https://shilab66.github.io/CyberSafe/index)<br>
+[home](https://shilab66.github.io/O.S.O/index)<br>
 
 ## About the problem
 
