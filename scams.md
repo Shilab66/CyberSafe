@@ -9,7 +9,7 @@
 **Risks**: Can lead to loss of accounts, identity theft, and financial loss.<br>
 
 ### Emergency scams
-**Definition**: Scams that involve calls or emails from someone claiming to be your friend or family member in dire need.
-**Motive**: The attackers claims to be a known relative that needs help right away, usually in the form of money. Victms are led to believe they need to act quick and transfer the money without much thought.
-**Form of contact**: Mostly though calls, but can be though text messages.
-**Risks**: Large finnacial loss
+**Definition**: Scams that involve calls or emails from someone claiming to be your friend or family member in dire need.<br>
+**Motive**: The attackers claims to be a known relative that needs help right away, usually in the form of money. Victms are led to believe they need to act<br> quick and transfer the money without much thought.
+**Form of contact**: Mostly though calls, but can be though text messages.<br>
+**Risks**: Large finnacial loss<br>
