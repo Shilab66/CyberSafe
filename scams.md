@@ -3,10 +3,10 @@
 ## Types of Scams
 
 ### Phishing
-**Definition**: Where an attacker sends a fraudulent message designed to trick a person into revealing sensitive information.
-**Motive**: Most attackers frames the message as if it was from a credial company, leading the victim to believe that the infomation is safe to give
-**Form of contact**: Usually though email, but can be though an ad/popup or a text message.
-**Risks**: Can lead to loss of accounts, identity theft, and financial loss.
+**Definition**: Where an attacker sends a fraudulent message designed to trick a person into revealing sensitive information.\n
+**Motive**: Most attackers frames the message as if it was from a credial company, leading the victim to believe that the infomation is safe to give\n
+**Form of contact**: Usually though email, but can be though an ad/popup or a text message.\n
+**Risks**: Can lead to loss of accounts, identity theft, and financial loss.\n
 
 ### Emergency scams
 **Definition**: Scams that involve calls or emails from someone claiming to be your friend or family member in dire need.
