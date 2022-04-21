@@ -26,3 +26,8 @@
 **Form of contact**: Popups or ads, but can be email <br>
 **Risks**: Finnacial loss<br>
 
+### Bad Downloads
+**Definition**: A fradulent website asks you to download a virus or ransomware disgused as a helpful program.<br>
+**Motive**: There are a multutude of motives based on what the porgram claims to do, but the most common form is a fake antivirus program.<br>
+**Form of contact**: Corruped download from a website in a exe or scr file format.<br>
+**Risks**: Computer can be hacked and files lost, or personal infomation could be stolen and leaked.<br>
