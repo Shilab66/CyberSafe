@@ -22,12 +22,18 @@
 
 ### Training course scam
 **Definition**: The attacker says that you are learning a skill the wrong way and that there is a much easier or faster way. Once you sign up, you are asked to send money for the training aterials, and don't get contacted again.<br>
-**Motive**: The victim wants to pick up a skill in an easier way, and are espcially susptible when they are frusterated with their current course or training method.<br>
-**Form of contact**: Popups or ads, but can be email <br>
+**Motive**: The victim wants to pick up a skill in an easier way, and are espcially susptible when they are frusterated with their current course or training method or are in finnacial hardship<br>
+**Form of contact**: Popups or ads, but can be by email<br>
 **Risks**: Finnacial loss<br>
 
 ### Bad Downloads
 **Definition**: A fradulent website asks you to download a virus or ransomware disgused as a helpful program.<br>
 **Motive**: There are a multutude of motives based on what the porgram claims to do, but the most common form is a fake antivirus program.<br>
 **Form of contact**: Corruped download from a website in a exe or scr file format.<br>
+**Risks**: Computer can be hacked and files lost, or personal infomation could be stolen and leaked.<br>
+
+### Greeting card scams
+**Definition**: Similar to bad download scams, it is where a message that seems to be from a family member or a friend is sent to a victim that will download malware or ransomeware upon being clicked.<br>
+**Motive**: The card seems to be a harmless and polite message.<br>
+**Form of contact**: Corruped downloads though emails in a exe or scr file format.<br>
 **Risks**: Computer can be hacked and files lost, or personal infomation could be stolen and leaked.<br>
