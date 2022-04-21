@@ -4,11 +4,8 @@
 
 ### Phishing
 **Definition**: Where an attacker sends a fraudulent message designed to trick a person into revealing sensitive information.
-
 **Motive**: Most attackers frames the message as if it was from a credial company, leading the victim to believe that the infomation is safe to give
-
 **Form of contact**: Usually though email, but can be though an ad/popup or a text message.
-
 **Risks**: Can lead to loss of accounts, identity theft, and financial loss.
 
 ### Emergency scams
