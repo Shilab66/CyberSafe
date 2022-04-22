@@ -5,6 +5,8 @@ navbar_entries:
     url: about
   - title: types of scams
     url: scams
+  - title: staying safe
+    url: safety
 project_entries:
   - title: $4.2 billion
     url: index
