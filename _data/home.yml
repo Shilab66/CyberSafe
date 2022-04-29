@@ -9,6 +9,8 @@ navbar_entries:
     url: safety
   - title: other organisations
     url: organisations
+  - title: sources
+    url: sources
 project_entries:
   - title: $4.2 billion
     url: index
